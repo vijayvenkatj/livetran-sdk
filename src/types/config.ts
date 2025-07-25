@@ -1,5 +1,5 @@
 export interface SDKConfig {
-    secretKey: string;
+    sharedSecret: string;
     baseURL:   string;
 }
 
